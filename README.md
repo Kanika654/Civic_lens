@@ -28,5 +28,3 @@ It’s designed to empower citizens by providing a platform to **report civic is
 
 ---
 
-## 📁 Project Structure
-
